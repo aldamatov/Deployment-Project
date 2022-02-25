@@ -233,6 +233,9 @@ p {
 }
 
 /* Languages */
+.languages {
+  margin-bottom: 30px;
+}
 .languages .flex {
   display: flex;
   justify-content: center;
